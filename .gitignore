@@ -1,1 +1,5 @@
-.env
+.env 
+report.html 
+__pycache__/ 
+
+assets
